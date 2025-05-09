@@ -1,2 +1,2 @@
 # django-crud-api
-CRUD API coded in Python using Django framework
+A simple Django-based REST API for performing CRUD operations.
